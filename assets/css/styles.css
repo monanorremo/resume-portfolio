@@ -702,8 +702,8 @@ img{
 }
 
 .project__bg{
-    background-color: var(--first-color);
-    padding: 3rem;
+    background-color: var(--first-color-second);
+    padding-top: 3rem;
 }
 
 .project__title{
