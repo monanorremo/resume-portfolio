@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
 /*==================== VARIABLES CSS ====================*/
-:root {
+:root{
     --header-height: 3rem;
 
     /*========== Colors ==========*/
@@ -58,8 +58,8 @@
 }
 
 /* Font size for large devices */
-@media screen and (min-width: 968px) {
-    :root {
+@media screen and (min-width: 968px){
+    :root{
         --big-font-size: 3rem;
         --h1-font-size: 2.25rem;
         --h2-font-size: 1.5rem;
@@ -210,7 +210,7 @@ img{
     color: var(--first-color);
 }
 
-@media screen and(max-width: 767px) {
+@media screen and(max-width: 767px){
     .nav__menu{
         position: fixed;
         bottom: -100%;
